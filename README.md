@@ -4,6 +4,8 @@ kinetic-battery-temperature-aging
 Python implementation of kinetic battery model (T-KiBaM) with addition of capacity loss.
 The project uses Python 3.11.2 with numpy and matplotlib. The model can be found in [kibam.ipnyb](./kibam.ipynb)
 
+If you want to run the model in Google Colab, you can use the [following link](https://githubtocolab.com/ApocalypsjeNL/kinetic-battery-temperature-aging/blob/main/kibam.ipynb)
+
 References
 ----------
 
